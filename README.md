@@ -1,0 +1,1 @@
+# Qr-code-generator-with-authorized-and-non-authorized-using-Python-computervision
